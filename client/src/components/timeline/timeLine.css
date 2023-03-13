@@ -1,0 +1,23 @@
+.eventHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.eventTitle{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.editButton{
+    border: none;
+    background: none;
+}
+
+.editButton{
+    border: none;
+    background: none;
+}
+.timeLine{
+    margin-top: 80px;
+}
